@@ -1,1 +1,1 @@
-# SalvarParticoes
+Este repositório contém scripts, dados e experimentos para gerar as partições de treino e teste da base de dados disponibilizada em Este repositório contém scripts, dados e experimentos para detectar discursos de ódio utilizando aprendizado de máquina.
