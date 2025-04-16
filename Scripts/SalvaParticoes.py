@@ -91,10 +91,10 @@ def plot_partitions_distribution(partition_dir):
 
 if __name__ == "__main__":
     # Caminho do arquivo de entrada
-    input_filepath = '2019-05-28_portuguese_hate_speech_hierarchical_classification.csv'
+    input_filepath = 'Data/2019-05-28_portuguese_hate_speech_hierarchical_classification.csv'
     
     # Diretório de saída para salvar as partições
-    output_dir = 'partitions'
+    output_dir = 'Data'
     
     # Chama a função para criar e salvar as partições
     preprocess_and_save_partitions(input_filepath, output_dir)
