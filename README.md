@@ -10,13 +10,13 @@ As partições geradas são salvas no diretório [`Data/`](https://github.com/Ca
 
 - **Partição de Treino:**  
   Contém 5.101 instâncias, sendo:  
-  - 1.105 classificadas como discurso de ódio  
-  - 3.996 classificadas como não discurso de ódio  
+  - 1.092 classificadas como discurso de ódio  
+  - 4.009 classificadas como não discurso de ódio  
 
 - **Partição de Teste:**  
   Contém 567 instâncias, sendo:  
-  - 123 classificadas como discurso de ódio  
-  - 444 classificadas como não discurso de ódio  
+  - 136 classificadas como discurso de ódio  
+  - 431 classificadas como não discurso de ódio  
 
 ### Distribuição das Classes
 A figura a seguir ilustra a distribuição das classes nas partições:  
