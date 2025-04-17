@@ -33,8 +33,7 @@ def preprocess_and_save_partitions(input_filepath, output_dir='partitions', test
         data['cleaned_text'], 
         data['Hate.speech'], 
         test_size=test_size, 
-        random_state=random_state, 
-        stratify=data['Hate.speech']
+        random_state=random_state
     )
     
     # Cria o diretório de saída, se não existir
