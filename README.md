@@ -4,7 +4,7 @@ Este repositório contém scripts utilizados para gerar e salvar partições de 
 
 O script responsável por realizar este procedimento, localizado em [`Scripts/SalvaParticoes.py`](https://github.com/Carlosbera7/SalvarParticoes/blob/main/Scripts/SalvaParticoes.py), foi desenvolvido com base na seção de experimentos do trabalho de Fortuna et al. (2019). Ele segue os parâmetros descritos pela autora, incluindo o pré-processamento da coluna `text` e o uso da coluna `Hate.speech` como variável alvo.
 
-As partições geradas são salvas no diretório [`Data/`](https://github.com/Carlosbera7/SalvarParticoes/tree/main/Data). Este repositório contém as partições já geradas e utilizadas nos experimentos, disponíveis em [`Data/Particoes Utilizadas`](https://github.com/Carlosbera7/SalvarParticoes/tree/main/Data/Particoes%20Utilizadas). O objetivo é garantir consistência nos dados utilizados em experimentos futuros. O código pode ser testado diretamente em ['Execução'](https://obscure-xylophone-wrr9q4j5v525g6.github.dev/)
+As partições geradas são salvas no diretório [`Data/`](https://github.com/Carlosbera7/SalvarParticoes/tree/main/Data). Este repositório contém as partições já geradas e utilizadas nos experimentos, disponíveis em [`Data/Particoes Utilizadas`](https://github.com/Carlosbera7/SalvarParticoes/tree/main/Data/Particoes%20Utilizadas). O objetivo é garantir consistência nos dados utilizados em experimentos futuros. O código pode ser testado diretamente em [`Execução`](https://obscure-xylophone-wrr9q4j5v525g6.github.dev/)
 
 ## Detalhes das Partições
 
